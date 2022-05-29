@@ -1,0 +1,25 @@
+.titulo{
+    text-align: center;
+    color: red;
+    font-style: bold;
+    text-transform: uppercase;
+}
+.parrafo{
+    text-align: justify;
+    font-style: italic;
+}
+.tit{
+    color: Orange;
+    font-size: 16px;
+}
+.par{
+    text-align: center;
+    color:black;
+    font-size: 12px;
+}
+li{
+    font-style:italic,bold;
+    color: blue;
+    font-family: Times New Roman,Sans-Serif;
+    font-size: 18px;
+}
